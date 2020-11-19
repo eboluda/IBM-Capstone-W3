@@ -1,1 +1,1 @@
-# IBM-Capstone-W3
+Week 3 IBM CAPSTONE
